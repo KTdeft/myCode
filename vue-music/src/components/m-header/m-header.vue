@@ -1,6 +1,6 @@
 <template>
     <div class="m-header">
-      <h1 class="text">Lengens Never Die</h1>
+      <h1 class="text">Music</h1>
       <router-link to="/search" class="search" tag="div">
         <i class="iconfont icon-search"></i>
       </router-link>
