@@ -1,110 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e4766d-998d-4465-aa43-dd2c811ec28d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/.postcssrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/.postcssrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/build.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/check-versions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/vue-loader.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/webpack.base.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/webpack.dev.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/build/webpack.prod.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/config/prod.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/api/rank.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/api/rank.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/api/recommend.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/api/recommend.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/api/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/api/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/api/singer.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/api/singer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/api/song.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/api/song.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/assets/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/confirm/confirm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/confirm/confirm.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/listview/listview.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/listview/listview.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/loading/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/loading/loading.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/loading/loading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/loading/loading.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/progress-bar/progress-bar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/progress-bar/progress-bar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/progress-circle/progress-circle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/progress-circle/progress-circle.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/scroll/scroll.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/scroll/scroll.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/search-box/search-box.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/search-box/search-box.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/search-list/search-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/search-list/search-list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/base/song-list/song-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/base/song-list/song-list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_core.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_path.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_screen-reader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/fonts/music-icon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/image/default.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/image/default.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/image/default.png" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/image/default.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/cache.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/dom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/mixin.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/mixin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/singer.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/singer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/song.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/song.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/js/utl.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/js/utl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/ali-icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/ali-icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/base.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/mixin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/common/scss/variable.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/common/scss/variable.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/m-header/m-header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/m-header/m-header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/music-list/music-list.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/music-list/music-list.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/player/player.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/player/player.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/playlist/playlist.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/playlist/playlist.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/rank-detail/rank-detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/rank-detail/rank-detail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/rank/rank.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/rank/rank.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/recommend/recommend.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/recommend/recommend.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/search/search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/search/search.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/singer-detail/singer-detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/singer-detail/singer-detail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/singer/singer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/singer/singer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/suggest/suggest.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/suggest/suggest.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/components/tab/tab.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/components/tab/tab.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/getters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/mutation-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/mutation-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/mutations.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/mutations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/src/store/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/src/store/state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue-music/static/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/vue-music/static/.gitkeep" afterDir="false" />
-    </list>
+    <list default="true" id="e1e4766d-998d-4465-aa43-dd2c811ec28d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -141,7 +38,7 @@
     <dismissed value="$PROJECT_DIR$/vue-music/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="778" />
+    <option name="x" value="1101" />
     <option name="y" value="23" />
     <option name="width" value="1030" />
     <option name="height" value="989" />
@@ -223,16 +120,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552067880960</updated>
-      <workItem from="1552067882222" duration="580000" />
+      <workItem from="1552067882222" duration="1025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="580000" />
+    <option name="totallyTimeSpent" value="1025000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="424" y="23" width="1030" height="989" extended-state="1" />
-    <editor active="true" />
+    <frame x="733" y="23" width="1030" height="989" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24975222" />
